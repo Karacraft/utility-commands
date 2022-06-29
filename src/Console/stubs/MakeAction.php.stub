@@ -1,0 +1,17 @@
+<?php
+
+namespace {{ namespace }};
+
+use Illuminate\Http\Request;
+
+class {{class_name}}
+{
+    /**
+    *   Handles the Request
+    */
+    public function handle(Request $request)
+    {
+    
+    }
+
+}

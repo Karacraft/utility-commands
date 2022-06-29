@@ -1,0 +1,26 @@
+{
+    "name": "karacraft/utility_commands",
+    "description": "Simple",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Karacraft\\UtilityCommands\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Karacraft",
+            "email": "kcraftpk@gmail.com"
+        }
+    ],
+    "extra": {
+        "laravel":{
+            "providers": [
+                "Karacraft\\UtilityCommands\\UtilityCommandsServiceProvider"
+            ]
+        }
+    },
+    "minimum-stability": "dev",
+    "require": {}
+}
