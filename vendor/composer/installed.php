@@ -1,19 +1,19 @@
 <?php return array(
     'root' => array(
-        'name' => 'karacraft/utility_commands',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'name' => 'karacraft/utility-commands',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'aa02e3a34bf5239bfd399cc4ad532300848f5b31',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
         'dev' => true,
     ),
     'versions' => array(
-        'karacraft/utility_commands' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+        'karacraft/utility-commands' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'aa02e3a34bf5239bfd399cc4ad532300848f5b31',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
