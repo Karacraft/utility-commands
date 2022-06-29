@@ -3,7 +3,7 @@
         'name' => 'karacraft/utility-commands',
         'pretty_version' => 'dev-main',
         'version' => 'dev-main',
-        'reference' => 'aa02e3a34bf5239bfd399cc4ad532300848f5b31',
+        'reference' => 'c68b4bc7e53e7f365ccae5f2f4546ea4488865eb',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -13,7 +13,7 @@
         'karacraft/utility-commands' => array(
             'pretty_version' => 'dev-main',
             'version' => 'dev-main',
-            'reference' => 'aa02e3a34bf5239bfd399cc4ad532300848f5b31',
+            'reference' => 'c68b4bc7e53e7f365ccae5f2f4546ea4488865eb',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),

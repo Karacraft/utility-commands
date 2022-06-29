@@ -1,6 +1,6 @@
 {
     "name": "karacraft/utility-commands",
-    "description": "Simple",
+    "description": "Creates Trait/Actions/View",
     "type": "library",
     "license": "MIT",
     "autoload": {
