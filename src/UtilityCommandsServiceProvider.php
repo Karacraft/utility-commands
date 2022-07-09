@@ -30,7 +30,7 @@ class UtilityCommandsServiceProvider extends ServiceProvider
         if($this->app->runningInConsole())
         {
             $this->commands([
-                TestCommand::class,
+                // TestCommand::class,
                 MakeAction::class,
                 MakeTrait::class,
                 MakeView::class,
